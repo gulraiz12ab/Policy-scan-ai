@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme (Dark) -->
+    <style name="Theme.PolicyScanAI" parent="android:Theme.Material.NoActionBar" />
+
+    <!-- Splash Screen Theme (Dark) -->
+    <style name="Theme.App.Splash" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/rich_black</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowIsTranslucent">false</item>
+    </style>
+</resources>

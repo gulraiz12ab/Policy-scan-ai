@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">پالیسی سکین AI</string>
+
+    <!-- General -->
+    <string name="cancel">منسوخ کریں</string>
+    <string name="back">پیچھے</string>
+    <string name="delete">ختم کریں</string>
+    <string name="offline">آف لائن</string>
+    <string name="retry">دوبارہ کوشش کریں</string>
+    <string name="clear_all">تمام صاف کریں</string>
+    <string name="ok">ٹھیک ہے</string>
+
+    <!-- Bottom Nav -->
+    <string name="nav_home">ہوم</string>
+    <string name="nav_history">تاریخ</string>
+    <string name="nav_laws">قوانین</string>
+    <string name="nav_settings">سیٹنگز</string>
+
+    <!-- Home Screen -->
+    <string name="policy_scan">پالیسی سکین</string>
+    <string name="ai_clarity">AI وضاحت</string>
+    <string name="welcome_back">خوش آمدید!</string>
+    <string name="home_subtitle">پالیسیوں کا درستگی کے ساتھ تجزیہ کریں۔</string>
+    <string name="new_scan">نیا سکین</string>
+    <string name="home_hero_desc">AI تجزیہ شروع کرنے کے لیے PDF اپ لوڈ کریں یا تصویر کھینچیں</string>
+    <string name="choose">انتخاب کریں</string>
+    <string name="scan">سکین</string>
+    <string name="categories">اقسام</string>
+    <string name="recent_activity">حالیہ سرگرمی</string>
+    <string name="see_all">سب دیکھیں</string>
+    <string name="no_scans_yet">ابھی تک کوئی سکین نہیں ہوا</string>
+    <string name="issues_count">%1$d مسائل</string>
+
+    <!-- Categories -->
+    <string name="cat_privacy">رازداری</string>
+    <string name="cat_terms">شرائط</string>
+    <string name="cat_health">صحت</string>
+    <string name="cat_loan">قرض</string>
+    <string name="cat_rental">کرایہ</string>
+    <string name="cat_work">کام</string>
+
+    <!-- History Screen -->
+    <string name="scan_history">سکین کی تاریخ</string>
+    <string name="docs_scanned_count">%1$d دستاویزات سکین کی گئیں</string>
+    <string name="search_history_hint">سکین کی تاریخ تلاش کریں...</string>
+    <string name="filter_all">تمام</string>
+    <string name="filter_critical">انتہائی اہم</string>
+    <string name="filter_warning">انتباہ</string>
+    <string name="filter_caution">احتیاط</string>
+    <string name="overview">جائزہ</string>
+    <string name="stat_total_scans">کل سکین</string>
+    <string name="stat_issues_found">مسائل ملے</string>
+    <string name="no_results_found">کوئی نتیجہ نہیں ملا</string>
+    <string name="scan_first_doc">پہلا دستاویز سکین کریں</string>
+    <string name="view_details">تفصیلات دیکھیں</string>
+    <string name="delete_history_title">سکین کی تاریخ ختم کریں؟</string>
+    <string name="delete_history_desc">کیا آپ واقعی \"%1$s\" کو ختم کرنا چاہتے ہیں؟ یہ عمل واپس نہیں لیا جا سکتا۔</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_subtitle">ایپ کی ترجیحات اور معلومات</string>
+    <string name="ai_engine">AI انجن</string>
+    <string name="connected">منسلک</string>
+    <string name="auto_model_desc">خصوصی تجزیاتی ماڈلز کا استعمال کرتا ہے</string>
+    <string name="preferences">ترجیحات</string>
+    <string name="dark_mode">ڈارک موڈ</string>
+    <string name="dark_mode_desc">ڈارک اور لائٹ تھیم کے درمیان سوئچ کریں</string>
+    <string name="language">زبان</string>
+    <string name="language_desc">اپنی پسندیدہ زبان منتخب کریں</string>
+    <string name="auto_save">خودکار محفوظ کریں</string>
+    <string name="auto_save_desc">سکین کے نتائج کو خودکار طور پر محفوظ کریں</string>
+    <string name="risk_alerts">خطرے کے الرٹ</string>
+    <string name="risk_alerts_desc">انتہائی اہم مسائل ملنے پر اطلاع دیں</string>
+    <string name="your_stats">آپ کے اعدادوشمار</string>
+    <string name="data_privacy">ڈیٹا اور رازداری</string>
+    <string name="data_on_device">ڈیٹا ڈیوائس پر رہتا ہے</string>
+    <string name="data_on_device_desc">دستاویزات کبھی کسی سرور پر اپ لوڈ نہیں ہوتیں</string>
+    <string name="works_offline">آف لائن کام کرتا ہے</string>
+    <string name="works_offline_desc">قوانین کا ڈیٹا بیس اور تاریخ مکمل طور پر آف لائن ہے</string>
+    <string name="clear_history">تمام تاریخ صاف کریں</string>
+    <string name="clear_history_desc">محفوظ کردہ تمام سکین نتائج ختم کریں</string>
+    <string name="about">متعلق</string>
+    <string name="about_app">Policy Scan AI کے بارے میں</string>
+    <string name="laws_reference">قوانین کا حوالہ</string>
+    <string name="clear_all_history_title">تمام تاریخ صاف کریں؟</string>
+    <string name="clear_all_history_desc">محفوظ کردہ تمام سکین مستقل طور پر ختم کر دیے جائیں گے۔</string>
+    <string name="powered_by">Policy Scan AI انجن کے تعاون سے</string>
+    <string name="about_desc">Policy Scan AI آپ کے دستاویزات کا تجزیہ کر کے خطرناک شقیں ڈھونڈتا ہے۔ سب کچھ آپ کے ڈیوائس پر ہوتا ہے — کوئی ڈیٹا باہر نہیں جاتا۔</string>
+
+    <!-- Laws Screen -->
+    <string name="laws_rights">قوانین اور حقوق</string>
+    <string name="laws_count_desc">100% آف لائن · %1$d قوانین</string>
+    <string name="search_laws_hint">قوانین، علاقہ، حقوق تلاش کریں...</string>
+    <string name="pakistan_laws">پاکستان کے قوانین</string>
+    <string name="pdpa_draft">PDPA ڈرافٹ</string>
+    <string name="pak_laws_summary">PECA 2016 aur CPA 2019 pahlay he nafiz hain. PDPA 2023 draft marhalay mein hai lekin pas honay par mazboot tahaffuz faraham karega.</string>
+    <string name="no_laws_found">کوئی قوانین نہیں ملے</string>
+    <string name="try_different_filter">مختلف فلٹر آزمائیں</string>
+    <string name="your_rights_under">%1$s کے تحت آپ کے حقوق</string>
+    <string name="key_articles">اہم دفعات</string>
+    <string name="enforcement">نفاذ</string>
+    <string name="enforced_by">نافذ کرنے والا ادارہ</string>
+    <string name="penalties">سزائیں</string>
+
+    <!-- Scanning Screen -->
+    <string name="scanning_document">دستاویز سکین ہو رہا ہے</string>
+    <string name="cancel_scan_title">سکین منسوخ کریں؟</string>
+    <string name="cancel_scan_desc">سکین جاری ہے۔ ابھی منسوخ کرنے سے اب تک ملنے والے نتائج ضائع ہو جائیں گے۔</string>
+    <string name="yes_cancel">ہاں، منسوخ کریں</string>
+    <string name="continue_scan">سکین جاری رکھیں</string>
+    <string name="chunk_report">چنک رپورٹ</string>
+    <string name="chunks">حصے</string>
+    <string name="caution">احتیاط</string>
+    <string name="ai_doc_analysis">Policy Scan AI تجزیہ</string>
+    <string name="analyzing_segment">%1$d میں سے حصہ %2$d کا تجزیہ ہو رہا ہے</string>
+    <string name="ai_active">AI فعال ہے</string>
+    <string name="live_ai_detection">لائیو AI نشاندہی</string>
+    <string name="flagged_count">%1$d مسائل ملے</string>
+    <string name="ai_searching_risks">AI چھپے ہوئے خطرات تلاش کر رہا ہے...</string>
+    <string name="scan_failed">سکین ناکام ہو گیا</string>
+
+    <!-- Upload Screen -->
+    <string name="doc_analysis">دستاویز کا تجزیہ</string>
+    <string name="waiting_doc_selection">دستاویز کے انتخاب کا انتظار ہے...</string>
+    <string name="processing_policy">پالیسی پر کام ہو رہا ہے...</string>
+    <string name="extracting_clauses">AI کے ذریعے اہم شقیں نکالی جا رہی ہیں</string>
+    <string name="policy_type_label">پالیسی کی قسم</string>
+    <string name="start_ai_analysis">AI تجزیہ شروع کریں</string>
+    <string name="secure_local_scan">محفوظ مقامی سکین فعال ہے</string>
+    <string name="analysis_error">تجزیہ میں غلطی</string>
+
+    <!-- Text Paste Screen -->
+    <string name="paste_policy_text">پالیسی متن پیسٹ کریں</string>
+    <string name="paste_screen_desc">فوری AI تجزیہ کے لیے نیچے پالیسی کا متن درج کریں یا پیسٹ کریں۔</string>
+    <string name="paste_hint">متن یہاں پیسٹ کریں...</string>
+    <string name="paste_from_clipboard">کلپ بورڈ سے پیسٹ کریں</string>
+    <string name="analyze_text">متن کا تجزیہ کریں</string>
+    <string name="local_processing_desc">مقامی تجزیہ، ڈیٹا کہیں نہیں جاتا</string>
+
+    <!-- Result Screen -->
+    <string name="scan_analysis">سکین کا تجزیہ</string>
+    <string name="ai_summary">AI خلاصہ</string>
+    <string name="findings_header">نتائج (%1$d)</string>
+    <string name="simplified_label">آسان الفاظ میں: %1$s</string>
+    <string name="high_risk">زیادہ خطرہ</string>
+    <string name="moderate_risk">درمیانہ خطرہ</string>
+    <string name="low_risk">کم خطرہ</string>
+    <string name="safe">محفوظ</string>
+</resources>

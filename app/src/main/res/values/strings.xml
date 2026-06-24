@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">Policy Scan AI</string>
+
+    <!-- General -->
+    <string name="cancel">Cancel</string>
+    <string name="back">Back</string>
+    <string name="delete">Delete</string>
+    <string name="offline">Offline</string>
+    <string name="retry">Retry</string>
+    <string name="clear_all">Clear All</string>
+    <string name="ok">OK</string>
+
+    <!-- Bottom Nav -->
+    <string name="nav_home">Home</string>
+    <string name="nav_history">History</string>
+    <string name="nav_laws">Laws</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home Screen -->
+    <string name="policy_scan">Policy Scan</string>
+    <string name="ai_clarity">AI CLARITY</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="home_subtitle">Analyze policies with precision.</string>
+    <string name="new_scan">New Scan</string>
+    <string name="home_hero_desc">Drop a PDF or capture a photo to begin AI analysis</string>
+    <string name="choose">Choose</string>
+    <string name="scan">Scan</string>
+    <string name="categories">Categories</string>
+    <string name="recent_activity">Recent Activity</string>
+    <string name="see_all">See All</string>
+    <string name="no_scans_yet">No scans yet</string>
+    <string name="issues_count">%1$d Issues</string>
+
+    <!-- Categories -->
+    <string name="cat_privacy">Privacy</string>
+    <string name="cat_terms">Terms</string>
+    <string name="cat_health">Health</string>
+    <string name="cat_loan">Loan</string>
+    <string name="cat_rental">Rental</string>
+    <string name="cat_work">Work</string>
+
+    <!-- History Screen -->
+    <string name="scan_history">Scan History</string>
+    <string name="docs_scanned_count">%1$d documents scanned</string>
+    <string name="search_history_hint">Search scan history...</string>
+    <string name="filter_all">All</string>
+    <string name="filter_critical">Critical</string>
+    <string name="filter_warning">Warning</string>
+    <string name="filter_caution">Caution</string>
+    <string name="overview">Overview</string>
+    <string name="stat_total_scans">Total Scans</string>
+    <string name="stat_issues_found">Issues Found</string>
+    <string name="no_results_found">No results found</string>
+    <string name="scan_first_doc">Scan First Document</string>
+    <string name="view_details">View Details</string>
+    <string name="delete_history_title">Delete Scan history?</string>
+    <string name="delete_history_desc">Are you sure you want to delete \"%1$s\"? This action cannot be undone.</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_subtitle">App preferences &amp; information</string>
+    <string name="ai_engine">AI Engine</string>
+    <string name="connected">Connected</string>
+    <string name="auto_model_desc">Uses specialized analysis models</string>
+    <string name="preferences">Preferences</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="dark_mode_desc">Switch between dark and light theme</string>
+    <string name="language">Language</string>
+    <string name="language_desc">Select your preferred language</string>
+    <string name="auto_save">Auto-Save Scans</string>
+    <string name="auto_save_desc">Automatically save scan results to history</string>
+    <string name="risk_alerts">Risk Alerts</string>
+    <string name="risk_alerts_desc">Show notification when critical issues found</string>
+    <string name="your_stats">Your Stats</string>
+    <string name="data_privacy">Data &amp; Privacy</string>
+    <string name="data_on_device">Data stays on device</string>
+    <string name="data_on_device_desc">Documents never uploaded to any server</string>
+    <string name="works_offline">Works offline</string>
+    <string name="works_offline_desc">Laws database &amp; analysis history fully offline</string>
+    <string name="clear_history">Clear All History</string>
+    <string name="clear_history_desc">Delete all saved scan results</string>
+    <string name="about">About</string>
+    <string name="about_app">About Policy Scan AI</string>
+    <string name="laws_reference">Laws Reference</string>
+    <string name="clear_all_history_title">Clear All History?</string>
+    <string name="clear_all_history_desc">All saved scans will be permanently deleted. This cannot be undone.</string>
+    <string name="powered_by">Policy Scan AI Engine</string>
+    <string name="about_desc">Policy Scan AI analyzes your documents to find dangerous clauses. Everything happens on your device — no data goes out.</string>
+
+    <!-- Laws Screen -->
+    <string name="laws_rights">Laws &amp; Rights</string>
+    <string name="laws_count_desc">100% offline · %1$d laws</string>
+    <string name="search_laws_hint">Search laws, region, rights...</string>
+    <string name="pakistan_laws">Pakistan Laws</string>
+    <string name="pdpa_draft">PDPA DRAFT</string>
+    <string name="pak_laws_summary">PECA 2016 and CPA 2019 are already enacted. PDPA 2023 is in draft stage but will provide strongest protection when passed.</string>
+    <string name="no_laws_found">No laws found</string>
+    <string name="try_different_filter">Try different filter</string>
+    <string name="your_rights_under">Your Rights Under %1$s</string>
+    <string name="key_articles">Key Articles</string>
+    <string name="enforcement">Enforcement</string>
+    <string name="enforced_by">Enforced By</string>
+    <string name="penalties">Penalties</string>
+
+    <!-- Scanning Screen -->
+    <string name="scanning_document">Scanning Document</string>
+    <string name="cancel_scan_title">Cancel Scan?</string>
+    <string name="cancel_scan_desc">Scan is in progress. Cancelling now will lose all findings detected so far.</string>
+    <string name="yes_cancel">Yes, Cancel</string>
+    <string name="continue_scan">Continue Scan</string>
+    <string name="chunk_report">Chunk Report</string>
+    <string name="chunks">Chunks</string>
+    <string name="caution">Caution</string>
+    <string name="ai_doc_analysis">AI Document Analysis</string>
+    <string name="analyzing_segment">Analyzing Segment %1$d of %2$d</string>
+    <string name="ai_active">AI ACTIVE</string>
+    <string name="live_ai_detection">Live AI Detection</string>
+    <string name="flagged_count">%1$d flagged</string>
+    <string name="ai_searching_risks">AI is looking for hidden risks...</string>
+    <string name="scan_failed">Scan Failed</string>
+
+    <!-- Upload Screen -->
+    <string name="doc_analysis">Document Analysis</string>
+    <string name="waiting_doc_selection">Waiting for document selection...</string>
+    <string name="processing_policy">Processing Policy...</string>
+    <string name="extracting_clauses">Extracting critical clauses using AI</string>
+    <string name="policy_type_label">POLICY TYPE</string>
+    <string name="start_ai_analysis">Start AI Analysis</string>
+    <string name="secure_local_scan">Secure local scan enabled</string>
+    <string name="analysis_error">Analysis Error</string>
+
+    <!-- Text Paste Screen -->
+    <string name="paste_policy_text">Paste Policy Text</string>
+    <string name="paste_screen_desc">Manually enter or paste the policy text below for instant AI analysis.</string>
+    <string name="paste_hint">Paste the text here...</string>
+    <string name="paste_from_clipboard">Paste from Clipboard</string>
+    <string name="analyze_text">Analyze Text</string>
+    <string name="local_processing_desc">Local processing, zero data sharing</string>
+
+    <!-- Result Screen -->
+    <string name="scan_analysis">Scan Analysis</string>
+    <string name="ai_summary">AI Summary</string>
+    <string name="findings_header">Findings (%1$d)</string>
+    <string name="simplified_label">Simplified: %1$s</string>
+    <string name="high_risk">High Risk</string>
+    <string name="moderate_risk">Moderate Risk</string>
+    <string name="low_risk">Low Risk</string>
+    <string name="safe">Safe</string>
+</resources>

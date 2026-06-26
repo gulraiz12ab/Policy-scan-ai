@@ -11,8 +11,8 @@ import java.util.concurrent.TimeUnit
 
 class PolicyAiClient {
 
-    private val URL = "https://ai.creativetaleem.app"
-    private val KEY = "ct-ai-2025-khawat-secret"
+    private val URL = "hide"
+    private val KEY = "hide"
 
     private val http = OkHttpClient.Builder()
         .connectTimeout(30, TimeUnit.SECONDS)
